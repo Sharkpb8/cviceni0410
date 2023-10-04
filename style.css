@@ -1,0 +1,21 @@
+table, th, td {
+    border:1px solid white;
+  }
+  p{
+    color:white;
+    border: 1px ;
+  }
+  html {
+    background-color: black;
+  }
+  h2{
+    color: white;
+  }
+
+  ul,li{
+    color: white;
+
+  }
+  tr,th{
+    color: white;
+  }
